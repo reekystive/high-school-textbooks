@@ -50,3 +50,9 @@
 [physics-outdated-3-3]: <https://github.com/ReekyStive/high-school-textbooks/blob/master/Outdated/Physics/%E7%89%A9%E7%90%86_%E9%80%89%E4%BF%AE3-3.pdf>
 [physics-outdated-3-4]: <https://github.com/ReekyStive/high-school-textbooks/blob/master/Outdated/Physics/%E7%89%A9%E7%90%86_%E9%80%89%E4%BF%AE3-4.pdf>
 [physics-outdated-3-5]: <https://github.com/ReekyStive/high-school-textbooks/blob/master/Outdated/Physics/%E7%89%A9%E7%90%86_%E9%80%89%E4%BF%AE3-5.pdf>
+
+### 相关网站
+
+- [人民教育出版社 - 高中新教材封面展示][cover]
+
+[cover]: <http://www.pep.com.cn/xw/zt/rjwy/rjbgzxjc/gzxjczs/>
